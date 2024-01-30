@@ -1,0 +1,13 @@
+{
+  "token": " Hier kommt der Bot Token Hin https://discord.com/developers/applications ",
+
+  "musik_mp3": " DU Brauchst ein direkten Link zu einer MP3 Musik schau mal auf https://ilovemusic.de ",
+
+  "msg": "<@${newState.member.id}> ist dem Sprachkanal beigetreten! ${role.toString()}",
+
+  "botVoiceChannel": " Channel id wo der bot musik SPielen soll ",
+
+  "teamid": " Id der Rolle die Gepingt werden soll ? ",
+
+  "VC_channels": [" ID DAS VOICE CHANNELS "]
+}
